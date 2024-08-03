@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]([https://rishavchanda.io](https://yashrajsingh-yash-raj-singhs-projects-badfdc86.vercel.app/))
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">Hello! I'm Yash Raj Singh, a passionate web developer from Kashipur, Uttarakhand, India. Currently pursuing a B.Tech degree in Computer Science Engineering from KIIT University, I have a strong foundation in Programming, Web development and App development. With a diverse skill set that includes React, JavaScript, Java, and more. My experience spans across creating Responsive Designs,Real-Time Communication apps, Database Management, AI integration, Web-Based Games, Mobile Apps and Automation Tools. I have successfully contributed to various projects and hackathons, showcasing my ability to deliver dynamic and user-centric solutions. In addition to my technical skills, I bring a deep understanding of operating systems, data structures, algorithms, and computer networks. My goal is to leverage my knowledge and skills to create innovative and efficient digital solutions.</h3>
-<img align="right" alt="Coding Gif" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
+<h3 align="normal">Hello! I'm Yash Raj Singh, a passionate web developer from Kashipur, Uttarakhand, India. Currently pursuing a B.Tech degree in Computer Science Engineering from KIIT University, I have a strong foundation in Programming, Web development and App development. With a diverse skill set that includes React, JavaScript, Java, and more. My experience spans across creating Responsive Designs,Real-Time Communication apps, Database Management, AI integration, Web-Based Games, Mobile Apps and Automation Tools. I have successfully contributed to various projects and hackathons, showcasing my ability to deliver dynamic and user-centric solutions. In addition to my technical skills, I bring a deep understanding of operating systems, data structures, algorithms, and computer networks. My goal is to leverage my knowledge and skills to create innovative and efficient digital solutions.</h3>
+<img align="right" alt="Coding Gif" width="500" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj1706&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj1706" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashraj1706" alt="yashraj1706" /></a> </p> -->
 
@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **React Native, Backend**
 
-- 👯 I’m looking to collaborate on **React Native**
+- 👯 I’m looking to collaborate in **Hackathons**
 
 - 👨‍💻 All of my projects are available at [https://yashrajsingh-yash-raj-singhs-projects-badfdc86.vercel.app/](https://yashrajsingh-yash-raj-singhs-projects-badfdc86.vercel.app/)
 
 - 💬 Ask me about **React, Next, Three...**
-
-- 📫 How to reach me **yashsng7@gmail.com**
 
 - ⚡ Fun fact **I play Guitar🎧✮🎸**
 
