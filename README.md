@@ -28,7 +28,7 @@
 
 
 
-<p style="display:flex;align-items:center;justify-content:center"><img align="center" style="width:100rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashraj1706&show_icons=true&locale=en&layout=compact" alt="yashraj1706" /></p>
+<p style="display:flex;align-items:center;justify-content:center"><img align="center" style="width:50rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashraj1706&show_icons=true&locale=en&layout=compact" alt="yashraj1706" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraj1706&show_icons=true&locale=en" alt="yashraj1706" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj1706&" alt="yashraj1706" /></p> -->
 
