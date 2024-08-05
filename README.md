@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate in **Hackathons**
 
-- 👨‍💻 All of my projects are available at [https://yashrajsingh-yash-raj-singhs-projects-badfdc86.vercel.app/](https://yashrajsingh-yash-raj-singhs-projects-badfdc86.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://yash-three.vercel.app/)
 
 - 💬 Ask me about **React, Next, Three...**
 
